@@ -13,12 +13,12 @@
 1. **Skills Analysis**:
     
     - **Current Skills and Expertise:**
-      - Basic programming skills, intoductory knowledge of programming concepts and software development principles.
+      - Basic programming skills, introductory knowledge of programming concepts and software development principles.
       - Strong analytical and research abilities developed through a background in social sciences, particularly psychology and sociology.
       - Great learning attitude, enthusiastic and motivated to learn new technology and techniques.
 
     - **Skills to Develop or Improve:**
-      - Gain proficiency in coding language like HTML, CSS and Javascript.
+      - Gain proficiency in coding language like HTML, CSS and JavaScript.
       - Practical experience through hands-on projects, internships, or freelance work to apply theoretical knowledge.
       - Specialization in areas like UX/UI design, data analysis, or software development to enhance expertise and marketability.
       - Enhance communication, teamwork, and time management skills in a development context.
@@ -29,13 +29,13 @@
      - A strong passion for technology and how it can solve real-world problems creatively.
      - A huge interest in acquiring new knowledge and skills in software development.
      - Commitment to continuous learning and exploring new tech trends to stay ahead in the industry.
-     - Enjoy tackling challanges challanges and finding solutions through coding and development.
+     - Enjoy tackling challenges and finding solutions through coding and development.
 
    - **Important Values:**
-     - The importance of growth and development both personally and professinally, opportunities like training and mentorships.
+     - The importance of growth and development both personally and professionally, opportunities like training and mentorships.
      - Collaboration and teamwork, value working in a team and sharing knowledge and ideas with others.
      - Ethical practices and meaningful work that contribute positively to society and make a difference.
-     - A perfect work-life balance, where the need for a healthy balance between professional and personal life is recognosed.
+     - A perfect work-life balance, where the need for a healthy balance between professional and personal life is recognised.
 
 ### Part 2: Career Exploration Insights
 
@@ -82,8 +82,8 @@
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
-    - **Complete each module of the 6 months Software Program on Schedul:**
-     - Enroll in the CodeSpace Software Development program , follow the structured study schedule, participate in course forums, and complete all my assignments and projects.
+    - **Complete each module of the 6 months Software Program on Schedule:**
+     - Enrol in the CodeSpace Software Development program , follow the structured study schedule, participate in course forums, and complete all my assignments and projects.
    - **Participate in weekly Peer Review Sessions or Group Discussions:**
      - Attend and participate the weekly coaching sessions held my coach.
 
